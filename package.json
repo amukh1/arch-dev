@@ -1,11 +1,14 @@
 {
   "name": "arch-dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "amukh1",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.8.1"
+  }
 }
